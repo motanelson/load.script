@@ -1,9 +1,9 @@
 a=out.txt
 log=$a.
-clear
-print=hello world....
+load
+print=$input.
 debug
-log
+print
 
 
 
