@@ -1,1 +1,1 @@
-windows command virtual machine runing .cmdcx on command line
+load script logs load files and change vars
